@@ -5,5 +5,8 @@ void setup()
 
 void loop()
 {
-
+    //Agregando codigo!
+    /*
+        Se trabaja en todo el codigo principal
+    */
 }
